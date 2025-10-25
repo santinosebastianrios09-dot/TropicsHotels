@@ -1,6 +1,6 @@
 // mvp_AGENTS/src/web/public/room-previews.js
 (function(){
-  const API = '';
+  const API = 'https://hotels-tropics.onrender.com';
   const ROOM_INFO = {
     "Doble estándar": { imageUrl: "img/doble-estandar.jpg", amenities: ["1 cama doble grande","Wi-Fi gratis","Baño privado","Aire acondicionado"] },
     "Simple estándar": { imageUrl: "img/simple-estandar-1.jpg", amenities: ["1 cama simple","Wi-Fi gratis","Baño privado","Aire acondicionado"] },

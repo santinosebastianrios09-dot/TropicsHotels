@@ -67,7 +67,8 @@
   const sendBtn = panel.querySelector('#cw-send');
   const closeBtn = panel.querySelector('#cw-close');
 
-  const API = location.origin;
+  const API = 'https://hotels-tropics.onrender.com';
+
   const state = {
     mode: 'idle',
     draft: {},
